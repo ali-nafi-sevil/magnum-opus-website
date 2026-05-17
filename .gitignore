@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor / local agent state
+.claude/
+
+# Local debug artifacts from playwright-cli sessions
+.playwright-cli/
+
+# Misc temp
+*.log
+node_modules/
